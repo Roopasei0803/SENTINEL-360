@@ -34,11 +34,7 @@ SENTINEL-360 is a smart wearable safety system that detects obstacles in multipl
 
 ## Working
 
-The ultrasonic sensors continuously measure the distance of nearby obstacles. When an obstacle is detected within the predefined alert distance, the Arduino activates the buzzer to warn the user.
-
-## Circuit Diagram
-
-![Circuit Diagram](circuit-diagram.png)
+The ultrasonic sensors continuously measure the distance of nearby obstacles. When an obstacle is detected within the predefined alert distance, the Arduino activates the buzzer to warn the users 
 
 ## Project Structure
 
