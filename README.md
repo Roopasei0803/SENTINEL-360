@@ -25,7 +25,7 @@ SENTINEL-360 is a smart wearable safety system that detects obstacles in multipl
 - 3 × HC-SR04 Ultrasonic Sensors
 - Buzzer
 - Jumper Wires
-- Power Supply
+- Power supply
 
 ## Working
 
