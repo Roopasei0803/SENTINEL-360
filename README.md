@@ -1,4 +1,9 @@
-# SENTINEL-360
+## 👥 Team Members
+
+- Roopa Sri N — GitHub: @Roopasri0803
+- Mridula — GitHub: @mridu200620-code
+
+- # SENTINEL-360
 
 Smart wearable safety system for real-time hazard detection and emergency alerts.
 
